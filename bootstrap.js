@@ -12,7 +12,7 @@ const {PlacesUtils: PlacesUtils} =
 const {XPCOMUtils: XPCOMUtils} =
 	Cu.import("resource://gre/modules/XPCOMUtils.jsm", {});
 //const {console: console} =
-//	Cu.import("resource://gre/modules/devtools/Console.jsm", {});
+//	Cu.import("resource://devtools/Console.jsm", {});
 
 
 const BASE_ID = "only-icons";
